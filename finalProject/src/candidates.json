@@ -1,0 +1,19 @@
+[
+    {
+      "id": 0,
+      "name": "Trump",
+      "picture": "images/trump.jpg",
+      "age": 70,
+      "location": "USA",
+      "votes": 0
+    },
+
+    {
+      "id": 1,
+      "name": "Obama",
+      "picture": "images/trump.jpg",
+      "age": 40,
+      "location": "USA",
+      "votes": 0
+    }
+]
